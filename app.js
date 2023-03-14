@@ -1,5 +1,5 @@
 // Initialize the game board
-const boardSize = 5;
+const boardSize = 10;
 const board = [];
 for (let i = 0; i < boardSize; i++) {
   board[i] = [];
